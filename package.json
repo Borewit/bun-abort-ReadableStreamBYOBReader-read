@@ -1,0 +1,12 @@
+{
+  "name": "bun-abort-ReadableStreamBYOBReader-read",
+  "version": "0.1.0",
+  "description": "Reproduce Bun aborting ReadableStreamBYOBReader.read() failure",
+  "type": "module",
+  "scripts": {
+    "node:test": "node test ./test.js",
+    "bun:test": "bun test ./test.js"
+  },
+  "author": "Borewit",
+  "license": "MIT"
+}
